@@ -2,7 +2,7 @@
 
 This was one of my first projects testing different classifier algorithms and methods applied to stars. (Sorry it's in Spanish, eventualy I will translate the notebook but I want to keep making things, the rest of the projects will be in English)
 
-It's not perfect and less a good model since I just push the spectra data in to the models, but I learned a lot of things that someone
+It's not perfect and less a explainable model since I just push the spectra data in to the different models, but I learned a lot of things that someone
 may have trouble with:
 
 ## What have I learned
